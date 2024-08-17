@@ -5,7 +5,7 @@ export default function OnePageNav() {
         <>
             <ul>
                 <li className="active menu-thumb">
-                    <Link href="/index-one-page">
+                    <Link href="/">
                         Home
                     </Link>
                 </li>

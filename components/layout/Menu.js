@@ -18,9 +18,7 @@ export default function Menu() {
                                     <div className="homemenu-thumb">
                                         <img src="/assets/img/header/home-1.jpg" alt="img" />
                                         <div className="demo-button">
-                                            <Link href="/" className="theme-btn">
-                                                <span>Multi Page</span>
-                                            </Link>
+                                         
                                             <Link href="/index-one-page" className="theme-btn">
                                                 <span>One Page</span>
                                             </Link>
